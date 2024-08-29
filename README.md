@@ -1,4 +1,5 @@
 Version 1.0
+
 I haven't found any Blender rig for UE5 Manny Skeleton, so I decided to make it myself. It's very basic at that moment but can be useful.
 Features:
 - Mirrorable poses
