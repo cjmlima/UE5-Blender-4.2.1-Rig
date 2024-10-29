@@ -1,4 +1,4 @@
-# Version 1.3.0
+# Version 2.0.0
 
 ![image](https://github.com/user-attachments/assets/052ec9eb-585b-4d03-9674-2360640b604e)
 
@@ -8,10 +8,8 @@ I haven't found any Blender rig for UE5 Manny Skeleton, so I decided to make it 
 ## Features:
 
 - Mirrorable poses
-- Good Feet IK (with Pole Target) and Hands IK
-- Aim point (Rotates head toward it)
+- Advanced Soft Feet IK and Hands IK
 - Fingers Rig
-- Direction Offset (I'm proud of it)
 - Auto hip and chest balance
 
 ## To implement:
@@ -39,9 +37,6 @@ Select only the armature in blender, then export it to FBX format
 ![image](https://github.com/user-attachments/assets/bbd21777-609b-4554-820a-e36f42eaae03)
 
 Just import it to Unreal Manny Skeleton and animation should be working perfectly.
-- Fixed bones orientation
-- Added shoulder control
-- Improved head aim target
 - Ready to export properly to UE5
 
 Use that rig for free, you can do any suggestions, pull requests and contribute to improving the rig, Epic Games owns the model.
