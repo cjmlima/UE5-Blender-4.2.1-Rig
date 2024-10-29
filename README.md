@@ -37,9 +37,6 @@ Select only the armature in blender, then export it to FBX format
 ![image](https://github.com/user-attachments/assets/bbd21777-609b-4554-820a-e36f42eaae03)
 
 Just import it to Unreal Manny Skeleton and animation should be working perfectly.
-- Fixed bones orientation
-- Added shoulder control
-- Improved head aim target
 - Ready to export properly to UE5
 
 Use that rig for free, you can do any suggestions, pull requests and contribute to improving the rig, Epic Games owns the model.
