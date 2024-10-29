@@ -1,4 +1,4 @@
-# Version 1.2.0
+# Version 1.3.0
 
 ![image](https://github.com/user-attachments/assets/052ec9eb-585b-4d03-9674-2360640b604e)
 
@@ -12,6 +12,7 @@ I haven't found any Blender rig for UE5 Manny Skeleton, so I decided to make it 
 - Aim point (Rotates head toward it)
 - Fingers Rig
 - Direction Offset (I'm proud of it)
+- Auto hip and chest balance
 
 ## To implement:
 - Hand and feet grab targets
