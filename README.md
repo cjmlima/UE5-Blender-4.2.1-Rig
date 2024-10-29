@@ -1,4 +1,4 @@
-# Version 1.3.0
+# Version 2.0.0
 
 ![image](https://github.com/user-attachments/assets/052ec9eb-585b-4d03-9674-2360640b604e)
 
@@ -8,10 +8,8 @@ I haven't found any Blender rig for UE5 Manny Skeleton, so I decided to make it 
 ## Features:
 
 - Mirrorable poses
-- Good Feet IK (with Pole Target) and Hands IK
-- Aim point (Rotates head toward it)
+- Advanced Soft Feet IK and Hands IK
 - Fingers Rig
-- Direction Offset (I'm proud of it)
 - Auto hip and chest balance
 
 ## To implement:
